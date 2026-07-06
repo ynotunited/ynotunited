@@ -106,6 +106,10 @@ A production-ready multi-tenant SaaS platform for:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ynotunited&show_icons=true&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ynotunited&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ynotunited&layout=compact&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ynotunited&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ynotunited&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ynotunited&theme=github_dark)
