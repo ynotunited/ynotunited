@@ -1,68 +1,104 @@
 # Hi, I'm Tony Olugbusi 👋
 
-Senior Full-Stack Engineer building SaaS, ERP systems & business automation platforms that scale.
+## Senior Full-Stack Engineer
 
-I design, build, and deploy full production systems from idea to deployment.
-
----
-
-## 🚀 What I Build
-
-- SaaS platforms (multi-tenant systems, billing, subscriptions)
-- ERP & business management systems
-- FinTech & payment-integrated applications
-- Membership & CRM systems
-- Custom enterprise web applications
+I design, build, and deploy production-ready SaaS platforms, ERP systems, and business automation software that solve real business problems.
 
 ---
 
-## 🧠 Core Expertise
-
-- Full-Stack Development (PHP, Laravel, Next.js, TypeScript)
-- System Architecture & SaaS Design
-- REST APIs & Backend Engineering
-- Database Design (MySQL, PostgreSQL)
-- Payment Integrations (Paystack, Flutterwave)
-- Deployment (VPS, Docker, Nginx)
-
----
-
-## 🏗 Featured Project
+## 🚀 Currently Building
 
 ### BuildLedger
-A multi-tenant SaaS platform for managing proposals, contracts, invoices, payments, and client workflows.
+A production-ready multi-tenant SaaS platform for:
 
-- Laravel + Next.js architecture
-- Subscription billing system
-- Role-based access control
-- Admin dashboard + client portal
-- Production deployed on VPS
+- Client Management
+- Proposals
+- Contracts
+- Invoicing
+- Payments
+- Project Management
+- Subscription Billing
 
-👉 Built entirely by me from architecture to deployment
+**Tech Stack**
 
----
+- Laravel
+- Next.js
+- TypeScript
+- MySQL
+- Docker
+- Nginx
 
-## 📦 Other Projects
-
-- Membership Portal System
-- Banking/Microfinance Platform (CEMCS MFB)
-- Retail Management System
-- SME Business Tools (KilobyteLib)
-- Internal Business Automation Systems
-
----
-
-## 📊 GitHub Focus
-
-- Building production-ready systems
-- Shipping real-world SaaS products
-- Writing clean, scalable backend architecture
-- Turning business problems into software solutions
+🔗 https://buildledger.madeitcodes.online
 
 ---
 
-## 📫 Let's Connect
+## 💼 What I Build
 
-- GitHub: https://github.com/ynotunited
-- Portfolio: https://madeitcodes.online
-- Email: tonyolugbusi@madeitcodes.online
+- SaaS Platforms
+- ERP Systems
+- Business Automation Software
+- FinTech Applications
+- Healthcare Systems
+- Membership Platforms
+- REST APIs
+- Enterprise Web Applications
+
+---
+
+## ⚙️ Core Technologies
+
+**Backend**
+
+- PHP
+- Laravel
+- Node.js
+- NestJS
+
+**Frontend**
+
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+
+**Database**
+
+- MySQL
+- PostgreSQL
+
+**Infrastructure**
+
+- Docker
+- Linux
+- VPS
+- Nginx
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 BuildLedger
+- 🏦 CEMCS MFB Platform
+- 👥 Membership Portal
+- 🛒 US Retail System
+- 💼 KilobyteLib SME
+
+---
+
+## 🎯 Current Focus
+
+- Building scalable SaaS products
+- System architecture
+- Backend engineering
+- API integrations
+- Business process automation
+- AI-powered business software
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://madeitcodes.online
+- 💻 GitHub: https://github.com/ynotunited
+- 💼 LinkedIn: https://linkedin.com/in/tony-o-825992243
+- 📧 Email: tonyolugbusi@madeitcodes.online
